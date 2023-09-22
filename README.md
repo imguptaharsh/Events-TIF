@@ -1,4 +1,4 @@
-# Even TIF
+# Events TIF
 <img src="https://github.com/imguptaharsh/Events-TIF/assets/111433732/809437c4-9579-48bf-8a16-4fdfa2dca093" width="180" height="320">
 <img src="https://github.com/imguptaharsh/Events-TIF/assets/111433732/c2f6f776-e773-46b8-83ff-ada888ac34de" width="180" height="320">
 <img src="https://github.com/imguptaharsh/Events-TIF/assets/111433732/b7c46f3a-457d-4c5c-a779-a6f8d31ebb3f" width="180" height="320">
@@ -7,11 +7,11 @@
 
 ## Overview
 
-Welcome to [Even TIF]! This document will guide you through the process of installing our amazing mobile application on your Android device using the provided APK (Android Package) file.
+Welcome to Events TIF! This document will guide you through the process of installing our amazing mobile application on your Android device using the provided APK (Android Package) file.
 
 ## Installation
 
-Please follow these simple steps to install [Even TIF]:
+Please follow these simple steps to install Events TIF:
 
 ### Step 1: Download the APK File
 
@@ -31,7 +31,7 @@ Please follow these simple steps to install [Even TIF]:
 
 ### Step 4: Open the App
 
-- Once the installation is complete, tap **Open** to launch [Event TIF].
+- Once the installation is complete, tap **Open** to launch Events TIF.
 
 ## Troubleshooting
 
@@ -41,12 +41,12 @@ If you encounter any issues during installation or while using the app, please c
 
 - **APK Integrity**: Verify that the APK file is not corrupted or tampered with. Download it from a trusted source.
 
-- **Android Version**: Check that your device's Android version is compatible with the app. [Even TIF] may require a specific Android version or higher to run.
+- **Android Version**: Check that your device's Android version is compatible with the app. Events TIF may require a specific Android version or higher to run.
 
 - **App Permissions**: Ensure that the app has the necessary permissions to function correctly. Review and grant any requested permissions during installation.
 
-- **Security Software**: Some security software or antivirus apps may interfere with app installations. Temporarily disable or whitelist [Even TIF] if needed.
+- **Security Software**: Some security software or antivirus apps may interfere with app installations. Temporarily disable or whitelist Events TIF if needed.
 
 ## Feedback and Support
 
-We value your feedback and are here to assist you. If you encounter any issues, have suggestions, or need assistance, please don't hesitate to contact our dedicated support team at [imguptaharsh25@gmail.com]. We are committed to making your experience with [Even TIF] exceptional.
+We value your feedback and are here to assist you. If you encounter any issues, have suggestions, or need assistance, please don't hesitate to contact our dedicated support team at [imguptaharsh25@gmail.com]. We are committed to making your experience with Events TIF exceptional.
