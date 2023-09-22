@@ -10,7 +10,7 @@ Please follow these simple steps to install [Even TIF]:
 
 ### Step 1: Download the APK File
 
-- Download the APK file from a trusted source by clicking [here](build/app/outputs/flutter-apk/app-release.apk).
+- Download the APK file from a trusted source by clicking [here](app-release.apk).
 
 ### Step 2: Enable Unknown Sources
 
